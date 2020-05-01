@@ -1,0 +1,11 @@
+{
+  "users": [],
+  "products": [
+    {
+      "title": "Produto 1",
+      "price": 150,
+      "id": 1
+    }
+  ],
+  "orders": []
+}
